@@ -1,2 +1,2 @@
-# DSA-PH4130
-Cricketers Ranking Using PCA Analysis
+#PH4130-DATA SCIENCE ANALYSIS(2 credit course)
+Project Topic - Cricketers Ranking Using PCA 
